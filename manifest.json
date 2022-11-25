@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name": "Upgrade efficiency calculator",
+    "version":"1.0.0",
+    "description":"An extension for idle games that calculates which upgrade is the most efficient to buz.",
+    "icons":{"128":"icon_128.png"},
+    "action":{
+        "default_icon":"icon_128.png",
+        "default_popup":"popup.html"
+    },
+    "permissions":["storage"]
+}
